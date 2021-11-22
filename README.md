@@ -1,2 +1,3 @@
 # LMGP: Lifted Multicut Optimization for Multi-Camera Multi-People Tracking
-Description:
+We will release here our implementation codes for LMGP.
+

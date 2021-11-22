@@ -3,4 +3,3 @@ We will release here our implementation for LMGP.
 
 
 ## Visualization Tracking Results on WILDTRACK
-Insert picture

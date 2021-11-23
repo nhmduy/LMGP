@@ -3,4 +3,5 @@ We will release here our implementation for LMGP.
 
 
 ### Visualization Tracking Results on WILDTRACK
-Insert ...
+![This is an image](https://github.com/nhmduy/LMGP/blob/main/video_out/Demo-WILDTRACK-v3-original-compr.gif)
+
